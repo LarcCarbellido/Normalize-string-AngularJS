@@ -1,4 +1,4 @@
-# Normilize criter string on Directive Angular JS
+# Normalize criter string on Directive Angular JS
   
   ```
   getResults: function($criter){
@@ -24,7 +24,7 @@
         }
   })();
   
-  ``
+  ```
 
 ### Autor
 * **Larc Carbellido** - *Code Development*
